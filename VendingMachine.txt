@@ -1,0 +1,13 @@
+Sprite::1.5::9
+Milkybar::1.00::6
+Reese’s Peanut Butter Cups::2.70::4
+Cereal Bar::2.60::14
+Fanta::1.5::10
+Coca Cola::1.5::9
+Cadbury Heroes::3.30::17
+Snickers Bar::2.00::4
+Clif Bar::1.00::22
+Kitkat::1.50::24
+Malteasers::2.50::11
+Starburst::1.00::5
+Pop-Tarts::1.90::43
